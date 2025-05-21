@@ -76,6 +76,11 @@ and then copy the url
 
 ![image](https://github.com/user-attachments/assets/0dbc20b4-b0eb-4fbd-8ea3-c670ee48060d)
 
+## Make sure front end (angular visibility is public, make sure both back end and front end is public)
+
+![image](https://github.com/user-attachments/assets/7afee726-c6c6-4558-a59c-d859378ea88c)
+
+
 ## the landing page (at first you will see empty list, after you add student it will show)
 
 ![image](https://github.com/user-attachments/assets/871b88f4-8aaf-4e08-8a89-acb5a894b643)
